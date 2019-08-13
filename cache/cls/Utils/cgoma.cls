@@ -4,7 +4,7 @@ Class Utils.cgoma Extends %RegisteredObject
 /// Cambios cambios para el git qwerqwerqwerqwerasdfasdfasdf
 /// Mas cambios para el git qwerqwerqwerqwerr
 /// Mas cambios mas cambiosq qwerqwerweqqwe qwerqwerqwe rerqwqwer qwasdfasdfasdfsdfer qw qwer qwerq werw
-/// qwerpqweri qwerqwerasdwerqwerqwerfaqwerwerqwxzcvxcvzxcvzxcvzxertwetrwetrwertwetrwertwetwerqwersdf asdfasdfaqwerqwerqwerqwerqwersdfasdfaasdf
+/// qwerpqweri qwerqwerasdwerqwerqwerfaqwerwerqwxzcvxcasdf asdfasdfas fasdf vzxcvzxcvzxertwetrwetrwertwetrwertwetwerqwersdf asdfasdfaqwerqwerqwerqwerqwersdfasdfaasdf
 ClassMethod buscaLotes() As %Status
 {
 	set lote1="90228LI00"
